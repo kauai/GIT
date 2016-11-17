@@ -1,0 +1,3 @@
+para ver os commits que ja temos.
+usamos o git log;
+para ver com mais detalhes,usamos o comando git watchanged
