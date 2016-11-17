@@ -3,3 +3,4 @@ usamos o git log;
 para ver com mais detalhes,usamos o comando git watchanged
 comando para enviar arquivos para o git "git remote add origin master"
 e ahe vc configura o usuario com senha e usuario
+testando merges
