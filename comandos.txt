@@ -3,3 +3,5 @@ usamos o git log;
 para ver com mais detalhes,usamos o comando git watchanged
 comando para enviar arquivos para o git "git remote add origin master"
 e ahe vc configura o usuario com senha e usuario
+para ver as branches, git branch ,para criar uma branche ,git branch "name"
+para trocar de branche,git branch checkout "nome da branche"
